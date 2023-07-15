@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+.box-red{
+  font-size: 2em;
+  background-color: red;
+  font-weight: bold;
+  color: white;
+  margin: 10% auto;
+  margin-top: 5%;
+  width: 400px;
+  height:250px;
+  padding-left: 4%;
+
+}
+Button{
+  width: 70px;
+  color: white !important;
+  
+  border-radius: 0px;
+  
+
+}
+
+.page-app{
+  margin-top:5%;
+}
+.no-link{
+  text-decoration: none;
+  color: #707070;
+}
+.Todo-main{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.mark-done{
+  /* text-decoration: line-through; */
+  display:none
+}
+.page-css{
+  padding-top: 10%;
+  width: 600px;
+  margin: 0 auto;
+}
+
