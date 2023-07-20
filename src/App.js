@@ -3,7 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import  BasicExample from './components/Head';
 // import Page from './components/page';
 import * as React from 'react';
-import Todo from './FunctionalComponents/Todo';
+// import Todo from './FunctionalComponents/Todo';
+import Calculator from './components/Calculator';
 
 
 
@@ -26,8 +27,9 @@ function App() {
   return (
    <>
       <div className='container  '>
+        <Calculator/>
 
-        <Todo/>
+        {/* <Todo/> */}
         
       </div>  
     </>
